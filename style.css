@@ -84,7 +84,7 @@ h2 {
 
 #modal img:nth-of-type(2) {
   width: 300px;
-  margin: 30px auto 35px;
+  margin: 30px auto 25px;
 }
 
 #modal p:nth-of-type(1) {
@@ -98,6 +98,13 @@ h2 {
 #modal p:nth-of-type(3),
 #modal p:nth-of-type(4) {
   font-size: 30px;
+}
+
+#modal p:nth-of-type(5) {
+  font-size: 20px;
+  color: #e5b026;
+  font-family: "Elsie Swash Caps", cursive;
+  margin-bottom: 10px;
 }
 
 #modal.hidden {
