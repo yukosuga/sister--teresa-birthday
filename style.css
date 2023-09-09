@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  font-size: 60px;
+  font-size: 50px;
   color: #93d0c0;
   margin: 10px auto 20px;
 }
@@ -135,17 +135,13 @@ h2 {
     width: 80%;
   }
 
-  #modal img:nth-of-type(1) {
-    padding-bottom: 20px;
-  }
-
   #open,
   #close {
     font-size: 28px;
   }
 
   #modal p:nth-of-type(1) {
-    padding-top: 40px;
+    padding-top: 40px 0 20px;
     font-size: 50px;
   }
 
