@@ -105,11 +105,14 @@ h2 {
 }
 
 @media only screen and (max-width: 480px) {
-  h1,
-  h2 {
+  h1 {
     font-size: 40px;
   }
 
+  h2 {
+    font-size: 35px;
+  }
+  
   .boxImage img {
     width: 90%;
   }
